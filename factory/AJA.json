@@ -1,0 +1,15 @@
+{
+	"name": "AJA",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcbe951f-6e8c-4096-b5bc-d7241140897f",
+		"tenantId": "e2e605ca-a105-4b19-bcb9-5b1ca2d5ce71"
+	}
+}
